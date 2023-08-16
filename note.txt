@@ -1,0 +1,38 @@
+<div class="col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2" id="content">
+<div class="html-content" id="content-text" style="margin-bottom:20px">
+<div style="text-align: center;"><br></div><div style="text-align: center;"><img class="lazyloaded img-responsive-inline" data-src="//lahazone.onpay.my/media/uploads/5gcwjqbqnyg0hppm0xph.png" src="//lahazone.onpay.my/media/uploads/5gcwjqbqnyg0hppm0xph.png"><br></div>
+<div style="text-align: center;"><br></div>
+<div style="text-align: center;"><br></div>
+<div style="text-align: center;"><br></div>
+<div style="text-align: center;"><img class="lazyloaded img-responsive-inline" data-src="//lahazone.onpay.my/media/uploads/Slide1.jpg" data-filename="Slide1.jpg" src="//lahazone.onpay.my/media/uploads/Slide1.jpg"></div>
+<div style="text-align: center;"><br></div>
+<div style="text-align: center;"><br></div>
+<div style="text-align: center;"><br></div>
+<div style="text-align: center;"><img class="lazyloaded img-responsive-inline" data-src="//lahazone.onpay.my/media/uploads/Slide2.jpg" data-filename="Slide2.jpg" src="//lahazone.onpay.my/media/uploads/Slide2.jpg"><br></div>
+<div style="text-align: center;"><br></div>
+<div style="text-align: center;"><br></div>
+<div style="text-align: center;"><br></div>
+<div style="text-align: center;"><img class="lazyloaded img-responsive-inline" data-src="https://i.ibb.co/4tjfwT9/Slide3.jpg" style="width: 720px;" src="https://i.ibb.co/4tjfwT9/Slide3.jpg"></div>
+<div style="text-align: center;"><br></div>
+<div style="text-align: center;"><br></div>
+<div style="text-align: center;"><img class="lazyloaded img-responsive-inline" data-src="https://i.ibb.co/Gk8WHW9/Slide4.jpg" style="width: 720px;" src="https://i.ibb.co/Gk8WHW9/Slide4.jpg"></div>
+<div style="text-align: center;"><br></div>
+<div style="text-align: center;"><img class="lazyloaded img-responsive-inline" data-src="https://i.ibb.co/X3prqZv/Slide5.jpg" style="width: 720px;" src="https://i.ibb.co/X3prqZv/Slide5.jpg"></div>
+<div style="text-align: center;"><br></div>
+<div style="text-align: center;"><br></div>
+<div style="text-align: center;"><img class="lazyloaded img-responsive-inline" data-src="https://i.ibb.co/hFfTpcX/Slide9.jpg" style="width: 720px;" src="https://i.ibb.co/hFfTpcX/Slide9.jpg"></div>
+<div style="text-align: center;"><br></div>
+<div style="text-align: center;"><img class=" img-responsive-inline lazyloaded" data-src="https://i.ibb.co/hHVFV0C/Slide10.jpg" style="width: 720px;" src="https://i.ibb.co/hHVFV0C/Slide10.jpg"><br></div>
+<div style="text-align: center;"><br></div>
+<div style="text-align: center;"><br></div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;"><br></div>
+<div style="text-align: center;"><br></div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;"><br></div>
+<div style="text-align: center;"><br></div>
+<div style="text-align: center;"><br></div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;"><br></div>
+<div style="text-align: center;"><br></div>
+<div style="text-align: center;"><br></div></div></div>
